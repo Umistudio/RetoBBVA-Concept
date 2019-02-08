@@ -9,21 +9,18 @@
 <span class="badge-patreon"><a href="https://patreon.com/jerome_etienne" title="Donate to this project using Patreon"><imghttps://github.com/Umistudio/RetoBBVA-Concept/blob/master/README.md src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerome_etienne.svg?style=plastic&label=Twitter&style=plastic)](https://twitter.com/jerome_etienne)
 
-Este repositorio contiene las practicas de programación del curso Fullstack y Apps Hibridas de toda la temática de la formación.
-Aquí encuentra publicado el codigo de las practicas.
-Contact me anytime [@jerome_etienne](https://twitter.com/jerome_etienne).
-Stuff are still moving fast, We reached a good status tho.
-An article has been published on [uploadvr](https://uploadvr.com/ar-js-efficient-augmented-reality-for-the-web/).
-So I wanted to publish thus people can try it and have fun with it :)
+Descripción del proyecto
+Proponer un nuevo proceso de vinvulación digital para futuros clientes del BBVA.
 
-- **Very Fast** : it runs efficiently even on phones. [60 fps on my 2 year-old phone](https://twitter.com/jerome_etienne/status/831333879810236421)!
-- **Web-based** : It is a pure web solution, so no installation required. Full javascript based on three.js + jsartoolkit5
-- **Open Source** : It is completely open source and free of charge!
-- **Standards** : It works on any phone with [webgl](http://caniuse.com/#feat=webgl) and [webrtc](http://caniuse.com/#feat=stream)
-
+- **Objetivos** 
+El objetivo de este ejercicio es poner a prueba la forma en que encaras un problema de diseño, desde una previa investigación de usuario hasta la conceptualización de la solución del problema.
+- **La meta** es realizar un proceso de diseño basado en una de las historias de usuario entregadas (escoger una sola), y desarrollar:
+- **1. Hipótesis:** Acerca de lo que debe tener el sistema, y lo que no debe tener.
+- **2. Los elementos del diseño de interacción:**  Que consideres importante para tener en cuenta en la propuesta.
 [![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
 
-# HTML5
+#Para tener en cuenta:
+• Puedes escoger todos los elementos o artefactos de diseño que consideres necesarios para completar el sistema de vinculación. • Eres libre de proponer cualquier cosa que tenga que ver con el reto. No te limites, ni contengas tu imaginación. ¡Sé creativo!.
 
 It works on all platforms. Android, IOS and window phone. It run **any browser with WebGL and WebRTC**.
 (for IOS, you need to update to ios11)
