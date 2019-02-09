@@ -17,7 +17,7 @@ El objetivo de este ejercicio es poner a prueba la forma en que encaras un probl
 - **La meta** es realizar un proceso de diseño basado en una de las historias de usuario entregadas (escoger una sola), y desarrollar:
 - **1. Hipótesis:** Acerca de lo que debe tener el sistema, y lo que no debe tener.
 - **2. Los elementos del diseño de interacción:**  Que consideres importante para tener en cuenta en la propuesta.
-[![AR.js 1.0 Video](https://cloud.githubusercontent.com/assets/252962/23441016/ab6900ce-fe17-11e6-971b-24614fb8ac0e.png)](https://youtu.be/0MtvjFg7tik)
+[![BBVA 1.0 Video](https://youtu.be/8BQGQHaGJLY)](https://youtu.be/8BQGQHaGJLY)
 
 #Para tener en cuenta:
 • Puedes escoger todos los elementos o artefactos de diseño que consideres necesarios para completar el sistema de vinculación. • Eres libre de proponer cualquier cosa que tenga que ver con el reto. No te limites, ni contengas tu imaginación. ¡Sé creativo!.
@@ -36,7 +36,8 @@ to your screen.
 ![screenshot](https://cloud.githubusercontent.com/assets/252962/23072106/73a0656c-f528-11e6-9fcd-3c900d1d47d3.jpg)
 
 
-[ALL EXAMPLES](https://jeromeetienne.github.io/AR.js-docs/misc/EXAMPLES.html)
+[ALL EXAMPLES](https://youtu.be/8BQGQHaGJLY)
+[ALL EXAMPLES](https://youtu.be/GJn4VkN-6I4)
 
 
 # Licenses
