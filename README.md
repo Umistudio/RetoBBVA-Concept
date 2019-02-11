@@ -27,41 +27,7 @@ El objetivo de este ejercicio es poner a prueba la forma en que encaras un probl
 1. Propuesta [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it
 to your screen.
 
-**You are done!** It will open a webpage which read the phone webcam, localize a hiro marker and add 3d on top of it, as you can see below.
-
-![screenshot](https://cloud.githubusercontent.com/assets/252962/23072106/73a0656c-f528-11e6-9fcd-3c900d1d47d3.jpg)
+**You are done!** It will open a webpage which read the phone webcam, localize a hiro marker and add 3d on top of it, as you can see 
 
 
-[ALL EXAMPLES](https://youtu.be/8BQGQHaGJLY)
-[ALL EXAMPLES](https://youtu.be/GJn4VkN-6I4)
 
-
-# Licenses
-It is **all open source** ! jsartoolkit5 is under LGPLv3 license and additional permission.
-And All my code in AR.js repository is under MIT license. :)
-
-For legal details, be sure to check [jsartoolkit5 license](https://github.com/artoolkit/jsartoolkit5/blob/master/LICENSE.txt)
-and [AR.js license](https://github.com/jeromeetienne/AR.js/blob/master/LICENSE.txt).
-
-# Change Log
-[CHANGELOG.md](https://github.com/jeromeetienne/AR.js/blob/master/CHANGELOG.md)
-
-# What's Next ?
-
-We did good on performance, but there are still a lot of room for optimisation.
-Using [webworkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
-would increase cpu usage. Compiling in [webassembly](https://webassembly.org) instead
-of [asm.js](http://asmjs.org/) should improve loading time and likely cpu performance.
-And obviously, we can still do more parameters tweaking :)
-
-
-I would like people start experience augmented reality and play with it.
-This is highly creative! Just look at this [puzzle game in #AR playing with mirror and laser beam](https://www.youtube.com/watch?v=OzLJb7HitvA).
-You could do it with AR.js, so opensource and running on normal phones, no need to buy a new device. isn't that great!
-
-
-Augmented reality on phone have applications in many fields:
-[history education](https://www.youtube.com/watch?v=gyp8ZYtyu_M)
-, [science](https://www.youtube.com/watch?v=gMxdBdLpVgc)
-or [gaming](https://www.youtube.com/watch?v=kEMDgvfFUcI).
-I exited to see what people will do with AR.js :)
