@@ -21,13 +21,10 @@ El objetivo de este ejercicio es poner a prueba la forma en que encaras un probl
 #Para tener en cuenta:
 • Puedes escoger todos los elementos o artefactos de diseño que consideres necesarios para completar el sistema de vinculación. • Eres libre de proponer cualquier cosa que tenga que ver con el reto. No te limites, ni contengas tu imaginación. ¡Sé creativo!.
 
-It works on all platforms. Android, IOS and window phone. It run **any browser with WebGL and WebRTC**.
-(for IOS, you need to update to ios11)
 
-To try on your phone is only 2 easy steps, check it out!
 
-1. Open this [hiro marker image](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
-1. Open this [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it
+1. BBVA creative test-realizado  [hiro marker image](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
+1. Propuesta [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it
 to your screen.
 
 **You are done!** It will open a webpage which read the phone webcam, localize a hiro marker and add 3d on top of it, as you can see below.
