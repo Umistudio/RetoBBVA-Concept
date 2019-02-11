@@ -715,6 +715,8 @@ svg path {
     }
 }
 
+
+
 #about .wrapper {
     position: relative;
     display: -webkit-box;
@@ -729,6 +731,11 @@ svg path {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center
+}
+
+#about .wrapper .blurb a{
+    color:#fff;
+    
 }
 
 #about .wrapper .camera {
