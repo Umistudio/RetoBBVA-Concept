@@ -23,11 +23,9 @@ El objetivo de este ejercicio es poner a prueba la forma en que encaras un probl
 
 
 
-1. BBVA creative test-realizado  [hiro marker image](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) in your desktop browser.
-1. Propuesta [augmented reality webapps](https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html) in your phone browser, and point it
-to your screen.
+1. BBVA creative test-realizado  [hiro marker image](https://1drv.ms/b/s!AgLX8wYbqOEJjF2v_dRk35JkpnnM)
+2. Propuesta Argumentada [augmented reality webapps](https://1drv.ms/b/s!AgLX8wYbqOEJjF4gyvYfvtn0d6IR) 
 
-**You are done!** It will open a webpage which read the phone webcam, localize a hiro marker and add 3d on top of it, as you can see 
-
+**Gracias por ver!** 
 
 
