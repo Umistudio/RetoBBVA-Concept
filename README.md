@@ -1,6 +1,6 @@
 # RetoBBVA-Concept
 
- [![Augmented Website](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)](https://github.com/jeromeetienne/AR.js)
+ [![Augmented Website](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)](https://umistudio.github.io/RetoBBVA-Concept/)
 
 [![npm](https://img.shields.io/github/repo-size/badges/shields.svg)](https://www.npmjs.com/package/ar.js)
 <br class="badge-separator" />
