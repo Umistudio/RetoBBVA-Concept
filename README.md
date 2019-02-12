@@ -23,8 +23,8 @@ El objetivo de este ejercicio es poner a prueba la forma en que encaras un probl
 
 
 
-1. BBVA creative test-realizado  [Test diligenciado](https://1drv.ms/b/s!AgLX8wYbqOEJjF2v_dRk35JkpnnM)
-2. Propuesta Argumentada [Argumento de la propuesta](https://1drv.ms/b/s!AgLX8wYbqOEJjF4gyvYfvtn0d6IR) 
+1. BBVA creative test-realizado  [Ver aquí](https://1drv.ms/b/s!AgLX8wYbqOEJjF2v_dRk35JkpnnM)
+2. Propuesta Argumentada [Ver aquí](https://1drv.ms/b/s!AgLX8wYbqOEJjF4gyvYfvtn0d6IR) 
 
 **Gracias por ver!** 
 
